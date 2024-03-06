@@ -183,13 +183,13 @@ b{
      height: 126px;
      vertical-align: middle;
      position: relative;
-     left: 650px;
+     left: 580px;
      bottom: 600px;
 }
 
 .circle-text{
     position: relative;
-     left: 500px;
+     left: 430px;
      bottom: 620px;
      font-size: 20px;
      font-family: Inter;
@@ -198,13 +198,13 @@ b{
 
 .circle-call{
     position: relative;
-     left: 380px;
+     left: 320px;
      bottom: 580px;
 }
 
 .circle-number{
     position: relative;
-     left: 390px;
+     left: 330px;
      bottom: 585px;
      color: white;
      font-size: 25px;
@@ -387,7 +387,7 @@ ul{
     width: 200px;
     height: 220px;
     position: relative;
-    left: 470px;
+    left: 440px;
     bottom: 200px;
 
 }
@@ -433,7 +433,7 @@ ul{
     /* color: #00197e; */
     font-weight: 700;
     font-family: "Inter";
-    margin: 0px 0px 0px 550px;
+    margin: 0px 0px 0px 450px;
 }
 
 /* .contact.from{
@@ -453,16 +453,16 @@ input{
     /* padding: 15px; */
     width: 280px;
     height: 60px;
-    padding: 0 20px 0;
+    padding: 0 10px 0;
     font-size: 20px;
     border-radius: 5px;
     border: 1px solid #fff !important;
     position: relative;
-    right: 30px;
+    right: 40px;
 }
 
 .inpt1{
-    margin-left: 10px;
+    margin-left: 7px;
 }
 
 .inpt2{
@@ -482,7 +482,7 @@ input{
     font-weight: 500;
     font-family: "Poppins";
     position: relative;
-    right: 70px;
+    right: 75px;
     z-index: 1;
     transition: .5s;
 }
@@ -497,8 +497,8 @@ input{
 }
 
 .our-h1{
-    text-align: center;
     font-size: 50px;
+    margin-left: 350px;
 }
 
 .services-box{
@@ -506,9 +506,9 @@ input{
     grid-template-columns: 30% 30% 30%;
 }
 .services-box-img{
-    width: 380px;
+    width: 360px;
     height: 280px;
-    margin: 50px 0px 0px 90px;
+    margin: 50px 0px 0px 60px;
 }
 
 .services-box-img-2{
@@ -518,7 +518,7 @@ input{
     width: 70px;
     position: relative;
     top: 260px;
-    right: 340px;
+    right: 320px;
      z-index: 2;
 
 }
@@ -536,7 +536,7 @@ input{
     height: 200px;
     padding: 56px 31px 21px;
     position: relative;
-    right: 810px;
+    right: 750px;
     top: 320px;
     z-index: 1;
     border-radius: 0 5px 5px 5px;
@@ -553,7 +553,7 @@ input{
 .contact-list1 li{
     color: white;
     position: relative;
-    right: 95px;
+    right: 100px;
     bottom: 25px;
     font-family: Inter;
     font-size: 18px;
@@ -563,18 +563,36 @@ input{
     text-decoration: none;
     color: white;
     font-size: 20px;
+    position: relative;
+    bottom: 20px;
+}
+
+.view2{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    position: relative;
+    bottom: 20px;
+}
+
+.view3{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    position: relative;
+    bottom: 20px;
 }
 
 .arrow{
     position: relative;
-    left: 10px;
-    top: 7px;
+    left: 5px;
+    bottom: 12px;
 }
 
 .services-box-img-3{
-     width: 380px;
+     width: 360px;
     height: 280px;
-    margin: -280px 0px 0px 555px;
+    margin: -280px 0px 0px 490px;
 }
 
 .services-box-img-4{
@@ -584,7 +602,7 @@ input{
     width: 70px;
     position: relative;
     top: -70px;
-    left: 130px;
+    left: 115px;
     /* right: 310px; */
      z-index: 2;
 }
@@ -602,7 +620,7 @@ input{
     height: 200px;
     padding: 56px 31px 21px;
     position: relative;
-    right: 345px;
+    right: 318px;
     top: -9px;
     z-index: 1;
     border-radius: 0 5px 5px 5px;
@@ -610,9 +628,9 @@ input{
 }
 
 .services-box-img3{
-    width: 380px;
+    width: 360px;
     height: 280px;
-    margin: -525px 0px 0px 1020px;
+    margin: -525px 0px 0px 920px;
 }
 
 .services-box-img-5{
@@ -622,7 +640,7 @@ input{
     width: 70px;
     position: relative;
     top: -310px;
-    left: 590px;
+    left: 545px;
     /* right: 310px; */
      z-index: 2;
 }
@@ -641,7 +659,7 @@ input{
     padding: 56px 31px 21px;
     position: relative;
     right: 0px;
-    left: 120px;
+    left: 110px;
     top: -252px;
     z-index: 1;
     border-radius: 0 5px 5px 5px;
