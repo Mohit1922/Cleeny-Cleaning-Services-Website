@@ -659,9 +659,6 @@ input {
 .work-head {
   color: RGB(47, 110, 255);
   font-size: 20px;
-  /* position: relative;
-    bottom: 250px;
-    left: 480px; */
   text-align: center;
   margin-top: 0px;
 }
@@ -669,9 +666,6 @@ input {
 .work-text {
   color: RGB(0, 25, 126);
   font-size: 50px;
-  /* position: relative;
-    bottom: 250px;
-    left: 360px; */
   text-align: center;
 }
 
@@ -688,8 +682,8 @@ input {
 }
 
 .work-img {
-  width: 120px;
-  height: 120px;
+  width: 150px;
+  height: 150px;
   margin-top: 200px;
   margin-left: -3%;
 }
@@ -711,14 +705,72 @@ input {
   color: RGB(58, 66, 104);
   margin-left: 35px;
   margin-top: 25px;
-
 }
 
-.work-img2{
-    width: 150px;
-    height: 350px;
-    margin-top: 70px;
-    margin-left: -3%;
+.work-img2 {
+  width: 150px;
+  height: 410px;
+  margin-top: 50px;
+  margin-left: -3%;
 }
 
+/* <!-- Working process css End --> */
 
+/* protfolio css start */
+
+.portfolio-area {
+  background-image: url(assest/portfolio-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 110px 0 242px;
+  position: relative;
+  z-index: 1;
+  /* width: 1441px; */
+  height: 400px;
+}
+
+.portfolio-container {
+  display: grid;
+  grid-template-columns: 70% 30%;
+}
+
+.portfolio-title {
+  color: RGB(47, 110, 255);
+  font-size: 16px;
+  margin-top: 0px;
+}
+
+.portfolio-text {
+  color: RGB(0, 25, 126);
+  font-size: 50px;
+}
+
+.view-btn {
+  margin-top: 50px;
+  margin-left: 150px;
+}
+
+.portfolio-container-img {
+  display: grid;
+  grid-template-columns: 30% 30% 30%;
+}
+
+.port-images {
+  width: 415px;
+  height: 305px;
+  margin-top: 80px;
+}
+
+.portfolio-img3 {
+  margin-left: 110px;
+}
+
+.portfolio-img2 {
+  margin-left: 70px;
+}
+
+.portfolio-img1 {
+  margin-left: 30px;
+}
+
+/* protfolio css end */
