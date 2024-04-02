@@ -3,6 +3,8 @@
   padding: 0px;
 }
 
+
+
 /* top navbar css start */
 
 .top-menu-navbar {
@@ -787,12 +789,12 @@ input {
   grid-template-columns: 40% 30% 20%;
 }
 
-.row-address-text{
+.row-address-text {
   font-size: 34px;
   margin: 80px 0px 0px 60px;
 }
 
-.address-img{
+.address-img {
   width: 100px;
   height: 280px;
   /* z-index: -1; */
@@ -800,9 +802,36 @@ input {
   margin-left: 90px;
 }
 
-.address-btn{
+.address-btn {
   padding: 20px 25px 20px;
   font-family: Poppins;
   font-size: 15px;
   margin-top: 80px;
 }
+
+/* address area css End */
+
+/* blog area css star */
+
+.blog-container{
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+.section-sub-title{
+  color: RGB(47, 110, 255);
+  margin-top: 150px;
+  margin-left: 120px;
+}
+.section-main-title{
+  color: RGB(0, 25, 126);
+  font-size: 43px;
+  margin-left: 115px;
+}
+
+.blog-button{
+  margin-top: 190px;
+  margin-left: 280px;
+}
+
+
