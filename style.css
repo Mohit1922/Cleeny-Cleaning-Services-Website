@@ -885,3 +885,22 @@ input {
   height: 500px;
   width: 356px;
 }
+
+/* blog area css end */
+
+.brand-area{
+  background: #f3f4f8;
+  height: 200px;
+  margin-top: 100px;
+}
+
+.brand-container{
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+}
+
+.brand-img{
+  /* height: 37px; */
+  width: 154px;
+  margin: 90px 0px 0px 90px;
+}
