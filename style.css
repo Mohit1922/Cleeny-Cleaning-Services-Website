@@ -3,8 +3,6 @@
   padding: 0px;
 }
 
-
-
 /* top navbar css start */
 
 .top-menu-navbar {
@@ -813,34 +811,34 @@ input {
 
 /* blog area css star */
 
-.blog-container{
+.blog-container {
   display: grid;
   grid-template-columns: 50% 50%;
 }
 
-.section-sub-title{
+.section-sub-title {
   color: RGB(47, 110, 255);
   margin-top: 150px;
   margin-left: 120px;
 }
-.section-main-title{
+.section-main-title {
   color: RGB(0, 25, 126);
   font-size: 43px;
   margin-left: 115px;
 }
 
-.blog-button{
+.blog-button {
   margin-top: 190px;
   margin-left: 280px;
 }
 
-.blog-box-container{
+.blog-box-container {
   display: grid;
   grid-template-columns: 33.3% 33.3% 33.3%;
 }
 
-.blog-first-box{
-  background: #F3F4F8;
+.blog-first-box {
+  background: #f3f4f8;
   /* padding: 27px 29px 26px;
   border-radius: 0 0 5px 5px;
   transition: .5s; */
@@ -849,50 +847,41 @@ input {
   width: 356px;
 }
 
-.blog-box-img{
+.blog-box-img {
   height: 260px;
   width: 356px;
   margin: 0px 0px 0px 0px;
 }
 
-.blog-title{
+.blog-title {
   color: RGB(58, 66, 104);
   font-size: 25px;
   margin: 20px 0px 0px 20px;
 }
 
-.blog-description{
+.blog-description {
   color: RGB(58, 66, 104);
   margin: 20px 0px 0px 20px;
 }
 
-.blog-read{
+.blog-read {
   text-decoration: none;
-  /* margin: 0px 0px 0px 20px; */
   margin-left: 20px;
   position: relative;
   top: 20px;
   font-size: 20px;
 }
 
-.blog-second-box{
-  background: #F3F4F8;
-  /* padding: 27px 29px 26px;
-  border-radius: 0 0 5px 5px;
-  transition: .5s; */
+.blog-second-box {
+  background: #f3f4f8;
   margin: 50px 0px 0px 70px;
   height: 500px;
   width: 356px;
 }
 
-.blog-third-box{
-  background: #F3F4F8;
-  /* padding: 27px 29px 26px;
-  border-radius: 0 0 5px 5px;
-  transition: .5s; */
+.blog-third-box {
+  background: #f3f4f8;
   margin: 50px 0px 0px 25px;
   height: 500px;
   width: 356px;
 }
-
-
