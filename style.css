@@ -845,6 +845,7 @@ input {
   margin: 50px 0px 0px 115px;
   height: 500px;
   width: 356px;
+  border-radius: 5px;
 }
 
 .blog-box-img {
@@ -877,6 +878,7 @@ input {
   margin: 50px 0px 0px 70px;
   height: 500px;
   width: 356px;
+  border-radius: 5px;
 }
 
 .blog-third-box {
@@ -884,23 +886,46 @@ input {
   margin: 50px 0px 0px 25px;
   height: 500px;
   width: 356px;
+  border-radius: 5px;
+}
+
+.blog-right-arrow{
+  position: relative;
+  top: 27px;
+  left: 5px;
 }
 
 /* blog area css end */
 
-.brand-area{
+/* Brand area Css Start */
+
+.brand-area {
   background: #f3f4f8;
   height: 200px;
   margin-top: 100px;
 }
 
-.brand-container{
+.brand-container {
   display: grid;
   grid-template-columns: 25% 25% 25% 25%;
 }
 
-.brand-img{
-  /* height: 37px; */
+.brand-img-first {
   width: 154px;
-  margin: 90px 0px 0px 90px;
+  margin: 90px 0px 0px 115px;
 }
+
+.brand-img-second {
+  width: 154px;
+  margin: 90px 0px 0px 100px;
+}
+.brand-img-third {
+  width: 154px;
+  margin: 90px 0px 0px 100px;
+}
+.brand-img-four {
+  width: 154px;
+  margin: 90px 0px 0px 100px;
+}
+
+/* Brand area Css End */
