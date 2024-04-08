@@ -929,3 +929,21 @@ input {
 }
 
 /* Brand area Css End */
+
+/* subscribe area css start */
+
+.subscribe-area{
+  display: grid;
+  grid-template-columns: 33.3% 33.3% 33.3%;
+}
+
+.subscribe-img{
+  width: 990px;
+  height: 130px;
+  margin: 80px 0px 0px 190px;
+}
+
+/* .subscribe-area-container{
+  display: grid;
+  grid-row: 33.3% 33.3% 33.3%;
+} */
