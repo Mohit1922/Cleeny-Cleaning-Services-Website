@@ -889,7 +889,7 @@ input {
   border-radius: 5px;
 }
 
-.blog-right-arrow{
+.blog-right-arrow {
   position: relative;
   top: 27px;
   left: 5px;
@@ -928,22 +928,22 @@ input {
   margin: 90px 0px 0px 100px;
 }
 
-/* Brand area Css End */
+/* cleeny footer css start */
 
-/* subscribe area css start */
-
-.subscribe-area{
-  display: grid;
-  grid-template-columns: 33.3% 33.3% 33.3%;
+.footer-area-img {
+  background-image: url(assest/footer-bg.png);
+  height: 500px;
+  width: 100%;
 }
-
-.subscribe-img{
-  width: 990px;
-  height: 130px;
-  margin: 80px 0px 0px 190px;
-}
-
-/* .subscribe-area-container{
+.footer-container{
   display: grid;
-  grid-row: 33.3% 33.3% 33.3%;
-} */
+  grid-template-columns: 25% 25% 25% 25%;
+}
+.footer-img-logo{
+  height: 50px;
+  width: 185px;
+  margin: 150px 0px 0px 100px;
+}
+.footer-text{
+  margin-left: 100px;
+}
