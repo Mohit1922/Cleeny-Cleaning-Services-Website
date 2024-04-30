@@ -947,3 +947,36 @@ input {
 .footer-text{
   margin-left: 105px;
 }
+.footer-widget-text{
+  display: inline-block;
+}
+.footer-widget-social a i {
+  display: inline-block;
+  height: 44px;
+  width: 44px;
+  line-height: 44px;
+  text-align: center;
+  color: #fff;
+  border-radius: 50%;
+  font-size: 15px;
+  position: relative;
+  z-index: 1;
+  border: 2px solid #334899;
+  margin-right: 6px;
+}
+.fa-facebook-f:before {
+  content: "\f39e";
+}
+.footer-widget-social a i:after {
+  position: absolute;
+  content: "";
+  height: 100%;
+  width: 100%;
+  background: #306EFF;
+  left: 0;
+  top: 0;
+  z-index: -1;
+  border-radius: 50%;
+  transform: scale(0);
+  transition: .5s;
+}
