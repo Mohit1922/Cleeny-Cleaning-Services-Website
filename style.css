@@ -988,3 +988,17 @@ input {
   transform: scale(0);
   transition: .5s;
 }
+.widget-title h2{
+  color: white;
+  font-size: 27px;
+  margin: 160px 0px 0px 50px;
+}
+.widget-title a{
+  color: white;
+  text-decoration: none;
+}
+.widget-title li{
+  position: relative;
+  right: 63px;
+  bottom: 25px;
+}
